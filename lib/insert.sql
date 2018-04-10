@@ -77,3 +77,15 @@ INSERT INTO users (
 INSERT INTO users (
     name, age)
     VALUES ('Morgan', 38);
+INSERT INTO users (
+    name, age)
+    VALUES ('Don', 40);
+INSERT INTO users (
+    name, age)
+    VALUES ('Emily', 20);
+INSERT INTO users (
+    name, age)
+    VALUES ('Joan', 82);
+INSERT INTO users (
+    name, age)
+    VALUES ('Ozzy', 18);
